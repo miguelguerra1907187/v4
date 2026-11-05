@@ -1,0 +1,16 @@
+# FILL - known item descriptions (description corrector)
+# One per line:   NMFC | DESCRIPTION   (the NMFC base without the sub, e.g. 48580)
+# The NMFC is optional:   DESCRIPTION
+# FILL types only letters A-Z in CAPITALS (no numbers, dashes, commas, accents or symbols).
+# Lines that start with # are ignored. If this file has lines, ONLY this file is used.
+# Keep this file in the same folder as fill.ps1.
+#
+# --------
+158880 | SOAP DISPENSERS
+178690 | STANDS NOI
+43955  | ALCOHOLS NOI LTD QTY
+48580  | CLEANING SCOURING OR WASHING SOLUTIONS
+49260  | CLOTHS TOWELS OR WIPES
+49260  | LIMITED QUANTITY SANITIZING WIPES
+59420  | HAND SANITIZERS NOI LTD QTY
+59420  | CREAMS LOTIONS MOISTURIZERS OR OILS N
